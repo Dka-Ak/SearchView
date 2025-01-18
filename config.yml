@@ -1,0 +1,7 @@
+domain: yourdomain.com
+root: /path/to/your/cse/
+# cse means custom search engine
+python_version: "3.8"
+packages:
+  - flask
+  - googlesearch-python
